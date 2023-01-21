@@ -1,0 +1,154 @@
+{
+    "userStory": {
+        "user1": {
+
+            "id": 1,
+            "name": "Me",
+            "img": "assets/images/me.png ",
+            "online": "false",
+            "story": "false"
+
+           
+        },
+        "user2": {
+
+            "id": 1,
+            "name": "Me",
+            "img": "assets/images/me.png ",
+            "online": "false",
+            "story": "false"
+
+           
+        },
+        "user3":{
+            "id": 1,
+            "name": "Me",
+            "img": "assets/images/me.png ",
+            "online": "false",
+            "story": "false"
+          },
+       
+          "user4":{
+  
+            "id": 2,
+            "name": "Dogambo",
+            "img": "assets/images/dogambo.png ",
+            "online": "false",
+            "story": "true"
+          },
+          "user5":{
+            "id": 3,
+            "name": "Bamsel",
+            "img": "assets/images/bamsel.png ",
+            "online": "false",
+            "story": "true"
+          },
+          "user6":{
+            "id": 4,
+            "name": "Ertagrul",
+            "img": "assets/images/ertagrul.png ",
+            "online": "false",
+            "story": "true"
+          },
+          "user7":{
+            "id": 5,
+            "name": "Portacule",
+            "img": "assets/images/portacule.png ",
+            "online": "false",
+            "story": "true"
+          },
+          "user8":{
+            "id": 6,
+            "name": "Sana",
+            "img": "assets/images/sana.png ",
+            "online": "false",
+            "story": "true"
+          },
+          "user9":{
+            "id": 7,
+            "name": "Kamal",
+            "img": "assets/images/kamal.png ",
+            "online": "false",
+            "story": "false"
+          }
+    },
+  "userMessages": {
+        "user1": {
+            "id": 1,
+            "name": "Taric Hacarlum",
+            "img": "assets/images/me.png ",
+            "message": "Hi, Good morning Alex",
+            "created_at": "06:30 AM",
+            "message_notification": "3+"
+           
+        },
+        "user2": {
+            "id": 2,
+            "name": "Henry Paul",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+
+           
+        },
+        "user3":{
+            "id": 3,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+       
+          "user4":{
+            "id": 4,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+          "user5":{
+            "id": 5,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+          "user6":{
+            "id": 6,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+          "user7":{
+            "id": 7,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+          "user8":{
+            "id": 8,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          },
+          "user9":{
+            "id": 9,
+            "name": "Alberto Reyna",
+            "img": "assets/images/me.png ",
+            "message": "Got the paper. See you soon!",
+            "created_at": "12:30 AM",
+            "message_notification": "..."
+          }
+    }
+
+}
